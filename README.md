@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/ArchieK9/loopstudios-landing-page-main/tree/main](https://github.com/ArchieK9/loopstudios-landing-page-main/tree/main)
 - Live Site URL: [https://archiek9.github.io/loopstudios-landing-page-main/](https://archiek9.github.io/loopstudios-landing-page-main/)
 
 ## My process
