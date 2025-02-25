@@ -355,6 +355,11 @@ footer>div:nth-child(2){
 }
 
 @media(max-width:540px){
+
+    main{
+        margin:5rem 1rem;
+    }
+    
     .mobile{
         display: unset;
     }
