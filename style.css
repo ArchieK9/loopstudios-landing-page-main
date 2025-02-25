@@ -359,6 +359,10 @@ footer>div:nth-child(2){
     main{
         margin:5rem 1rem;
     }
+
+    section{
+        margin:6rem 1rem;
+    }
     
     .mobile{
         display: unset;
